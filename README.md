@@ -1,5 +1,5 @@
 # Alex Ofosu
-** `Data Ethusiast (Analyst/Scientist/Operator)` **
+** `Data Ethusiast (Analyst/Scientist/Administrator)` **
 
 📈
 
