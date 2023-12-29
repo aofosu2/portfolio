@@ -6,7 +6,6 @@
 
 I'm a data science student with a background in sales administration, operations, and business analyst. I am focused on building my own version of the data world one chart at a time. All data projects are build from the ground up collecting and cleaning data all the way through analysis and visualizations, my goal is to solve real world problems through the lens of data. 
 
-<p align="left">
 
 ---
   
@@ -23,13 +22,9 @@ I'm a data science student with a background in sales administration, operations
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg" />
           
-          
-          
-          
-          
-          
-
 #
+
+---
 
 ### 📊 Project Visualizations
 
