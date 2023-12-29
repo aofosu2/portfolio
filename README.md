@@ -33,7 +33,6 @@ I'm a data science student with a background in sales administration, operations
 <img src="https://github.com/aofosu2/portfolio/blob/main/Figure%202023-10-04%20193744%20(2).png" />
 <img src="https://github.com/aofosu2/portfolio/blob/main/Figure%202023-10-04%20193744%20(7).png" />
 
-
 #
 
 <details>
