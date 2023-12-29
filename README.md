@@ -37,7 +37,7 @@ I'm a data science student with a background in sales administration, operations
 
 #
 
-<👨🏿‍💻 Alex's Data Journey>
-  <summary<h3> </h3></summary>
+<details>
+  <summary><h3> 👨🏿‍💻 Alex's Data Journey </h3></summary>
   I started my journey as a young data science student with the drive to learn everything I knew about the world of data - Excel, Salesforce, Tableau roles while teaching myself Python, SQL, and R to develop thr knowledge and thirst for analyzing large datasets in a scalable manner. The combination of this skillset and previous experience has given way to the opportunity to work in data centric roles including sales operations, supporting sales teams by building reports and gui based dashboards along with maintenaing the health of Salesforce and Excel through deduplication, record merging and eliminating null values. My knowledge of the world of Data expanded quickly in the classroom by participating in various projects that exposed me to the Data Science lifecycle. I had hands-on experience using Jupyter Notebooks along with Numpy, Matplotlib, Pandas, and Seaborn for data analysis and visualization. I am ready to implement my skillset to help organizations make better decisions and scale using their data. My past experience in Sales allows me to bring a growth oriented perspective to help your organization make better decisions.
 </details>
